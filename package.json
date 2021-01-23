@@ -1,0 +1,23 @@
+{
+  "name": "serverless_telegram_shortlink_bot_sample",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francisyzy/serverless_telegram_shortlink_bot_sample.git"
+  },
+  "author": "francisyzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francisyzy/serverless_telegram_shortlink_bot_sample/issues"
+  },
+  "homepage": "https://github.com/francisyzy/serverless_telegram_shortlink_bot_sample#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
