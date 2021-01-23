@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/francisyzy/serverless_telegram_shortlink_bot_sample#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
   }
